@@ -12,45 +12,19 @@
 - AI에 관심있는 누구나 해당 자료를 사용하셔도 좋습니다.
 ---
 
-
-
-<details>
-<summary>학습 자료</summary>
-
-## Gradient Descent : Linear Model 학습과정 이해하기
+### Gradient Descent : Linear Model 학습과정 이해하기
 
 - 목표 : Gradient Descent를 이해하고 Linear Model을 통해 Weight를 Update하는 방법을 이해하기 
 - [Link](Gradient_Descent)
 
-## Backpropagation : FC Layer의 학습과정 이해하기
+### Backpropagation : FC Layer의 학습과정 이해하기
 
 - 목표 : Chain Rule을 바탕으로 Forward와 Backward과정을 통하여 Weight를 Update하는 방법을 이해하기
 - [Link](Backpropagation)
 
-## CLT and MLE : 중심극한정리와 최대가능도 추정량의 불변성과 정규근사
+### CLT and MLE : 중심극한정리와 최대가능도 추정량의 불변성과 정규근사
 
 - 목표 : 중심극한정리와 최대가능도 추정량의 성질 중 불변성과 정규근사를 이해하기
 - 추가학습 : 균등분포를 활용하여 특정 확률분포로부터 랜덤샘플을 얻는방법 이해하기
 - [Link](CLT&MLE)
-
-
-
-</details>
-
-
-
-
-<details>
-<summary>TODO List</summary>
-
-- Gradient Descent 손필기 설명 보충
-- Backpropagation 손필기 설명 보충
-- Weight Init
-- MCMC
-- Loss와 Metric의 이해
-- 부동소수점의 오차
-
-</details>
-
-
 
